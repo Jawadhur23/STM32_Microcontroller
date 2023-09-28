@@ -1,0 +1,8 @@
+../drivers/Src/stm32f4xx_driver.c:30:6:GPIO_PeriClockControl	16	static
+../drivers/Src/stm32f4xx_driver.c:139:6:GPIO_Init	32	static
+../drivers/Src/stm32f4xx_driver.c:191:6:GPIO_DeInit	16	static
+../drivers/Src/stm32f4xx_driver.c:250:9:GPIO_ReadFromInputPin	24	static
+../drivers/Src/stm32f4xx_driver.c:257:10:GPIO_ReadFromOutputPort	24	static
+../drivers/Src/stm32f4xx_driver.c:263:6:GPIO_WriteToOutputPin	16	static
+../drivers/Src/stm32f4xx_driver.c:276:6:GPIO_WriteToOutputPort	16	static
+../drivers/Src/stm32f4xx_driver.c:280:6:GPIO_ToggleOutput	16	static
