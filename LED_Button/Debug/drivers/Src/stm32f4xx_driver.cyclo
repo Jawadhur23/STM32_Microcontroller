@@ -1,0 +1,11 @@
+stm32f4xx_driver.c:30:6:GPIO_PeriClockControl	20
+stm32f4xx_driver.c:139:6:GPIO_Init	8
+stm32f4xx_driver.c:226:6:GPIO_DeInit	10
+stm32f4xx_driver.c:285:9:GPIO_ReadFromInputPin	1
+stm32f4xx_driver.c:292:10:GPIO_ReadFromOutputPort	1
+stm32f4xx_driver.c:298:6:GPIO_WriteToOutputPin	2
+stm32f4xx_driver.c:311:6:GPIO_WriteToOutputPort	1
+stm32f4xx_driver.c:315:6:GPIO_ToggleOutput	1
+stm32f4xx_driver.c:337:6:GPIO_IRQInterruptConfig	12
+stm32f4xx_driver.c:389:6:GPIO_IRQPriorityConfig	1
+stm32f4xx_driver.c:398:6:GPIO_IRQHandling	2

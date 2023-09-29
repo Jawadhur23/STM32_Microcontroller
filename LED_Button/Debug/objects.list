@@ -1,0 +1,5 @@
+"./Src/2_LED_Button.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
+"./drivers/Src/stm32f4xx_driver.o"
